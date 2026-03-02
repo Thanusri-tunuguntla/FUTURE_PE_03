@@ -1,0 +1,17 @@
+Act as an SEO strategist.
+
+Create a complete content cluster strategy for a business website.
+
+Business: Digital Marketing Agency
+Location: Bangalore
+Primary Topic: Digital Marketing Services
+
+Generate:
+
+1. One pillar blog topic targeting the main keyword.
+2. Five supporting blog topics.
+3. Target keyword for each blog.
+4. Search intent for each blog (informational, transactional, local).
+5. Internal linking structure between blogs.
+
+Format the output as a clear table.
