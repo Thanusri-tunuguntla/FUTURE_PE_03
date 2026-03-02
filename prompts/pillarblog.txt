@@ -1,0 +1,25 @@
+Act as an SEO strategist and professional blog writer.
+
+Create a long-form SEO pillar blog for a business website.
+
+Business Type: Digital Marketing Agency
+Location: Bangalore
+Primary Keyword: digital marketing agency in Bangalore
+
+Requirements:
+
+1. Generate an SEO optimized blog outline with H1, H2, and H3 headings.
+2. The blog must target search intent for people looking for marketing services.
+3. Include sections explaining:
+   - services offered
+   - benefits of hiring an agency
+   - how businesses can choose the right agency
+4. Naturally include the location keyword (Bangalore) throughout the article.
+5. Suggest internal links to related blogs.
+6. Write a strong business-focused conclusion encouraging readers to contact the agency.
+
+Output:
+- SEO Title
+- Meta Description
+- Blog Outline
+- Full Blog Content (1000–1500 words)
