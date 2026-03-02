@@ -1,0 +1,20 @@
+Act as an SEO content writer.
+
+Generate a supporting blog article for a digital marketing agency website.
+
+Main Topic: SEO Services in Bangalore
+
+Requirements:
+
+1. Create SEO optimized headings (H1–H3).
+2. Explain the topic clearly for business owners.
+3. Include local SEO references to Bangalore.
+4. Include FAQ section.
+5. Suggest internal links to the pillar blog:
+   "Best Digital Marketing Agency in Bangalore".
+
+Output:
+- SEO Title
+- Meta Description
+- Blog Outline
+- Full Blog Content (800–1000 words)
